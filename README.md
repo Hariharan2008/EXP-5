@@ -31,7 +31,13 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
+<img width="961" height="1297" alt="5 1" src="https://github.com/user-attachments/assets/f1ec77e0-4990-4de8-9086-ab9eb7d07a20" />
+
+
 V-I & REGULATION CHARACTERISTICS:
+
+<img width="1698" height="2280" alt="5 2" src="https://github.com/user-attachments/assets/59973bd3-32da-4455-84dc-c975dc3c186f" />
+
 
 PRECAUTIONS:
 
